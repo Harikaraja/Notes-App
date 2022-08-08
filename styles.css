@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+#addbtn{
+    background-color: rgb(142, 198, 21);
+}
+.sheading {
+    margin-left: 9%;
+    margin-right: 13%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: rgb(251, 6, 157);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.container #first{
+    color:rgb(251, 6, 157);
+}
+.container .card{
+    background-color:rgb(37, 124, 156);
+}
+.row {
+    background-color:rgb(37, 124, 156);
+}
